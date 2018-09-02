@@ -1,0 +1,6 @@
+﻿  MAIN.C
+c:\users\apix9\source\repos\il vero adt\il vero adt\main.c(101): warning C4047: 'funzione': 'char' differisce da 'char [100]' nei livelli di riferimento indiretto
+c:\users\apix9\source\repos\il vero adt\il vero adt\main.c(101): warning C4024: 'AggiungiArticolo': tipi diversi tra il parametro 3 formale e quello effettivo
+c:\users\apix9\source\repos\il vero adt\il vero adt\main.c(101): warning C4024: 'AggiungiArticolo': tipi diversi tra il parametro 4 formale e quello effettivo
+c:\users\apix9\source\repos\il vero adt\il vero adt\main.c(101): warning C4024: 'AggiungiArticolo': tipi diversi tra il parametro 5 formale e quello effettivo
+  IL VERO ADT.vcxproj -> C:\Users\apix9\source\repos\IL VERO ADT\Debug\IL VERO ADT.exe
